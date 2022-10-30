@@ -89,7 +89,7 @@ Add style to your `logseq/custom.css` file.
 
 ### En
 
-- [Logseq documentation](https://logseq.github.io/)
+- [Logseq documentation](https://docs.logseq.com/)
 - [Unofficial Logseq Documentation](https://mschmidtkorth.github.io/logseq-msk-docs) By [mschmidtkorth](https://github.com/mschmidtkorth)
 - <https://beepb00p.xyz/logseq/#/page/Personal%20infra> By [karlicoss](https://github.com/karlicoss)
 
